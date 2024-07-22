@@ -1,0 +1,6 @@
+/venv
+/photo
+/__pycache__
+stg.db
+stg.sqbpro
+token.txt
